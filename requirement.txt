@@ -1,0 +1,10 @@
+streamlit
+datasets
+pandas
+numpy
+Pillow
+faiss-cpu
+sentence-transformers
+transformers
+torch
+groq
